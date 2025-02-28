@@ -10,7 +10,7 @@ Works for the moment only on Silicon/arm64 mac architecture (unless you compile 
 
    
 ## Install  
->Launch the app once. This registers the extension as the extension itself stays within the app bundle.
+>Launch the app once. This registers the extension as the extension itself stays within the app bundle.  
 >Requires nothing that is not included already, is sandboxed and hardened, and has no extra entitlements.
 
 ## Uninstall  
