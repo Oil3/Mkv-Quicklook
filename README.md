@@ -42,6 +42,7 @@ Includes a few 'ffmpeg' libraries, which are licenced in LGPL2.1, in the "Framew
 The source code is in the ffmpeg folder of this repository.   
 You can always use your own ffmpeg libraries, however in that case you might have to rebuild the project to comply with sandboxing rules.
 
+Besides the former, 100% Swift -no html, no js, and 100% native with no Webkit. 
 
 
   ##  
