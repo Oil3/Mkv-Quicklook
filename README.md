@@ -34,3 +34,7 @@ Includes a few 'ffmpeg' libraries, which are licenced in LGPL2.1, in the "Framew
 The source code is in the ffmpeg folder of this repository.   
 You can always use your own ffmpeg libraries, however in that case you might have to rebuild the project to comply with sandboxing rules.
 
+
+
+  ##  
+_A mac is a mac and it needs to stay comfortable, but it's still your property._  
