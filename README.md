@@ -46,4 +46,4 @@ Besides the former, 100% Swift -no html, no js, and 100% native with no Webkit.
 
 
   ##  
-_A mac is a mac and it needs to stay comfortable, but it's still your property._  
+_A mac is a mac and it needs to stay comfortable, but it's still your mac._  
