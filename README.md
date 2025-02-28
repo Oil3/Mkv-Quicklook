@@ -17,5 +17,8 @@ Silicon compatible.
 
 Works on all macOSX versions and for the moment only on Silicon/arm64 mac architecture.  
 
-##   
+### Please let know what video or audio codecs if a video doesn't work properly, playback should be immediate and instant, no matter the video file size. 
+
+## To do   
 Intel: I need to finish compiling properly
+
