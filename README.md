@@ -1,5 +1,5 @@
 # Mkv-Quicklook
-The macOS plugin to play .mkv movies in Quicklook Preview
+Free macOS plugin to play .mkv movies in Quicklook Preview, very fast.
 
 
 Silicon compatible.
