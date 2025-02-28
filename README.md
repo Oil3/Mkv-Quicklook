@@ -17,7 +17,15 @@ Works for the moment only on Silicon/arm64 mac architecture (unless you compile 
 >Delete the app.  
 
 ## Update  
->Replace the older app with the newer app.  MacOS looks for the extension in the app: if app is moved, a relaunch might be needed.  
+>Replace the older app with the newer app.  MacOS looks for the extension in the app: if app is moved, a relaunch might be needed.
+
+
+##
+Download from Releases or [direct-download.](https://github.com/Oil3/Mkv-Quicklook/releases/download/silicon/mkv.Quicklook.-.Silicon.zip)  
+
+
+
+##
 
 [S720creen Recording 2025-02-28 at 1.04.15 PM copy 2.webm](https://github.com/user-attachments/assets/c27b8024-369a-4ec0-beff-14e2c4923ae7)
 
