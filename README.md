@@ -5,7 +5,8 @@ Free macOS plugin to play .mkv movies in Quicklook Preview, very fast.
 
 
    ## 
-Silicon compatible.
+Works for the moment only on Silicon/arm64 mac architecture (unless you compile yourself on an Intel).  
+
 
    
 ## Install  
@@ -16,10 +17,12 @@ Silicon compatible.
 >Delete the app.  
 
 ## Update  
->Replace the older app with the newer app.  MacOS looks for the extension in the app: if app is moved, a relaunch might be needed. 
+>Replace the older app with the newer app.  MacOS looks for the extension in the app: if app is moved, a relaunch might be needed.  
+
+[S720creen Recording 2025-02-28 at 1.04.15 PM copy 2.webm](https://github.com/user-attachments/assets/c27b8024-369a-4ec0-beff-14e2c4923ae7)
 
 
-Works on all macOSX versions and for the moment only on Silicon/arm64 mac architecture.  
+Testing with high bitrates (20, 110mbps) HD videos, and ultra high bitrate (250mbps) 4K UHD sample.  
 
 ### Please let know what video or audio codecs if a video doesn't work properly, playback should be immediate and instant, no matter the video file size. 
 
