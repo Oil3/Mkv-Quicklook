@@ -7,7 +7,7 @@ Free macOS plugin to play .mkv movies in Quicklook Preview, very fast.
 
    ## 
 Works for the moment only on Silicon/arm64 mac architecture (unless you compile yourself on an Intel).  
-Native 100% support of H264 and AAC:  `instant playback and smooth scrolling tested up to 3600 × 2025 at 227.74 Mbit/s`.  
+Initial release 100% supports H264 and AAC:  `instant playback and smooth scrolling tested up to 3600 × 2025 at 227.74 Mbit/s`.  
 
 
    
