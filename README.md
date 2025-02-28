@@ -21,7 +21,7 @@ Works for the moment only on Silicon/arm64 mac architecture (unless you compile 
 
 
 ##
-Download from Releases or [direct-download.](https://github.com/Oil3/Mkv-Quicklook/releases/download/silicon/mkv.Quicklook.-.Silicon.zip)  
+Download from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/silicon) or [direct-download.](https://github.com/Oil3/Mkv-Quicklook/releases/download/silicon/mkv.Quicklook.-.Silicon.zip)  
 
 
 
