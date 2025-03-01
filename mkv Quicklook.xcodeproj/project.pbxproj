@@ -63,6 +63,7 @@
 		7DC89F732D72B245003A5869 /* Exceptions for "mkv Quicklook" folder in "mkv Quicklook" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				"mkv Quicklook - Intel.zip",
 				"mkv Quicklook - Silicon.zip",
 			);
 			target = 7D9B07212D70124D00327D49 /* mkv Quicklook */;
