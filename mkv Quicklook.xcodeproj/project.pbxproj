@@ -60,40 +60,26 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		7DE8D48F2D714B6600C06A9F /* Exceptions for "QL mkv" folder in "QL mkv" target */ = {
+		7DC89F732D72B245003A5869 /* Exceptions for "mkv Quicklook" folder in "mkv Quicklook" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				"mkv Quicklook - Silicon.zip",
 			);
-			target = 7DE8D47D2D714B6600C06A9F /* QL mkv */;
+			target = 7D9B07212D70124D00327D49 /* mkv Quicklook */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
-/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
-		7DE8D4C32D714C8A00C06A9F /* Exceptions for "QL mkv" folder in "Copy Bundle Resources" phase from "QL mkv" target */ = {
-			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
-			buildPhase = 7DE8D47C2D714B6600C06A9F /* Resources */;
-			membershipExceptions = (
-				FFmpegBridge.h,
-			);
-		};
-/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		7D9B07242D70124D00327D49 /* mkv Quicklook */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				7DC89F732D72B245003A5869 /* Exceptions for "mkv Quicklook" folder in "mkv Quicklook" target */,
+			);
 			path = "mkv Quicklook";
 			sourceTree = "<group>";
 		};
 		7DE8D4822D714B6600C06A9F /* QL mkv */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				7DE8D48F2D714B6600C06A9F /* Exceptions for "QL mkv" folder in "QL mkv" target */,
-				7DE8D4C32D714C8A00C06A9F /* Exceptions for "QL mkv" folder in "Copy Bundle Resources" phase from "QL mkv" target */,
-			);
-			explicitFileTypes = {
-				FFmpegBridge.h = sourcecode.c.h;
-			};
 			path = "QL mkv";
 			sourceTree = "<group>";
 		};
