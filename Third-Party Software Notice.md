@@ -29,13 +29,13 @@ Intel: `./configure --prefix=/tmp/ffql2  --disable-asm --disable-doc --disable-n
 
 ## Replacement Instructions  
 
-This software dynamically links to the FFmpeg libraries.  
-Users who wish to replace these libraries with their own modified versions can do so by: 
-Obtaining the source code for FFmpeg from the link provided above,  
-Making desired modifications to the source code, 
-Compiling the modified source code into shared libraries, 
-Replacing the existing FFmpeg shared libraries in the application bundle at: `mkv Quicklook.app/Contents/PlugIns/QL mkv.appex/Contents/Resources`, 
-Code-signing the application bundle and its content.  
+This software dynamically links to the FFmpeg libraries.   
+Users who wish to replace these libraries with their own modified versions can do so by:   
+Obtaining the source code for FFmpeg from the link provided above,   
+Making desired modifications to the source code,  
+Compiling the modified source code into shared libraries,  
+Replacing the existing FFmpeg shared libraries in the application bundle at: `mkv Quicklook.app/Contents/PlugIns/QL mkv.appex/Contents/Resources`,   
+Code-signing the application bundle and its content.   
 ##  
 # GNU LESSER GENERAL PUBLIC LICENSE
 
