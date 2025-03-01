@@ -4,22 +4,35 @@ Free macOS plugin to play .mkv movies in Quicklook Preview, very fast.
 
 
 
+
    ## 
-Silicon compatible.
+Works for the moment only on Silicon/arm64 mac architecture (unless you compile yourself on an Intel).  
+Initial release 100% supports H264 and AAC:  `instant playback and smooth scrolling tested up to 3600 × 2025 at 227.74 Mbit/s`.  
+
 
    
 ## Install  
->Launch the app once. This registers the extension as the extension itself stays within the app bundle.
+>Launch the app once. This registers the extension as the extension itself stays within the app bundle.  
 >Requires nothing that is not included already, is sandboxed and hardened, and has no extra entitlements.
 
 ## Uninstall  
 >Delete the app.  
 
 ## Update  
->Replace the older app with the newer app.  MacOS looks for the extension in the app: if app is moved, a relaunch might be needed. 
+>Replace the older app with the newer app.  MacOS looks for the extension in the app: if app is moved, a relaunch might be needed.
 
 
-Works on all macOSX versions and for the moment only on Silicon/arm64 mac architecture.  
+##
+Download from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/silicon) or [direct-download.](https://github.com/Oil3/Mkv-Quicklook/releases/download/silicon/mkv.Quicklook.-.Silicon.zip)  
+
+
+
+##
+
+[S720creen Recording 2025-02-28 at 1.04.15 PM copy 2.webm](https://github.com/user-attachments/assets/c27b8024-369a-4ec0-beff-14e2c4923ae7)
+
+
+Testing with high bitrates (20, 110mbps) HD videos, and ultra high bitrate (250mbps) 4K UHD sample.  
 
 ### Please let know what video or audio codecs if a video doesn't work properly, playback should be immediate and instant, no matter the video file size. 
 
@@ -31,3 +44,8 @@ Includes a few 'ffmpeg' libraries, which are licenced in LGPL2.1, in the "Framew
 The source code is in the ffmpeg folder of this repository.   
 You can always use your own ffmpeg libraries, however in that case you might have to rebuild the project to comply with sandboxing rules.
 
+Besides the former, 100% Swift -no html, no js, and 100% native with no Webkit. 
+
+
+  ##  
+_A mac is a mac and it needs to stay comfortable, but it's still your mac._  
