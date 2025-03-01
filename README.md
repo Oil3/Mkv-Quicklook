@@ -8,8 +8,10 @@ Free macOS plugin to play .mkv movies in Quicklook Preview, very fast.
    ## 
 Works on all macOSX versions on both Intel and Silicon architectures. 
 
-Initial release 100% supports H264 and AAC:  `instant playback and smooth scrolling tested up to 3600 × 2025 at 227.74 Mbit/s`.  
 
+Instant playback and smooth scrolling:
+* H.264, AAC:  `tested up to 3840 × 2160 and a bitrate of 227.74 Mbit/s`.    
+* H.265/HEVC: `tested up to 3840 × 2160 with a 10-bit bit depth and a bitrate of 365.20 Mbit/s`.   
 
    
 ## Install  
@@ -24,7 +26,7 @@ Initial release 100% supports H264 and AAC:  `instant playback and smooth scroll
 
 
 ##
-Download from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.1-intel-silicon) or direct-download [Silicon-arm64 ](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.1-intel-silicon/mkv.Quicklook.1.1.-.Silicon.zip)or  [Intel-x86_64](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.1-intel-silicon/mkv.Quicklook.-.Intel.zip).  
+Download from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.2-hevc-fixed) or direct-download [Silicon-arm64 ](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.2-hevc-fixed/mkv.Quicklook.-.1.2.Silicon.zip) or  [Intel-x86_64](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.2-hevc-fixed/mkv.Quicklook.-.1.2.Intel.zip) .  
 
 
 ##
