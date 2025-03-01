@@ -54,9 +54,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7D811E242D73B3C300978BA1 /* mkv Quicklook - 1.2 Intel.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "mkv Quicklook - 1.2 Intel.zip"; sourceTree = "<group>"; };
+		7D811E252D73B3C300978BA1 /* mkv Quicklook - 1.2 Silicon.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "mkv Quicklook - 1.2 Silicon.zip"; sourceTree = "<group>"; };
 		7D9B07222D70124D00327D49 /* mkv Quicklook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mkv Quicklook.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7DC89F722D72B245003A5869 /* mkv Quicklook - Silicon.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "mkv Quicklook - Silicon.zip"; sourceTree = "<group>"; };
-		7DC89F742D72B2A0003A5869 /* mkv Quicklook - Intel.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "mkv Quicklook - Intel.zip"; sourceTree = "<group>"; };
 		7DE8D47E2D714B6600C06A9F /* QL mkv.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "QL mkv.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DE8D4802D714B6600C06A9F /* Quartz.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Quartz.framework; path = System/Library/Frameworks/Quartz.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -89,8 +89,8 @@
 		7D9B07192D70124D00327D49 = {
 			isa = PBXGroup;
 			children = (
-				7DC89F742D72B2A0003A5869 /* mkv Quicklook - Intel.zip */,
-				7DC89F722D72B245003A5869 /* mkv Quicklook - Silicon.zip */,
+				7D811E242D73B3C300978BA1 /* mkv Quicklook - 1.2 Intel.zip */,
+				7D811E252D73B3C300978BA1 /* mkv Quicklook - 1.2 Silicon.zip */,
 				7D9B07242D70124D00327D49 /* mkv Quicklook */,
 				7DE8D4822D714B6600C06A9F /* QL mkv */,
 				7DE8D47F2D714B6600C06A9F /* Frameworks */,
