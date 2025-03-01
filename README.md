@@ -34,17 +34,17 @@ Download from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.1-
 
 Testing with high bitrates (20, 110mbps) HD videos, and ultra high bitrate (250mbps) 4K UHD sample.  
 
-### Please let know what video or audio codecs if a video doesn't work properly, playback should be immediate and instant, no matter the video file size. 
+### Please let me know what video or audio codecs if a video doesn't work properly, playback should be immediate and instant, no matter the video file size. 
 
 ## To do   
 ̶I̶n̶t̶e̶l̶:̶ ̶I̶ ̶n̶e̶e̶d̶ ̶t̶o̶ ̶f̶i̶n̶i̶s̶h̶ ̶c̶o̶m̶p̶i̶l̶i̶n̶g̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶
  
 ## Acknowledgment
-The extension leverages the LGPL2.1-licensed ffmpeg libraries avcodec, avfilter, avutil, swscale, avdevice, avformat, and swresample.
-You can find them inside Frameworks folder inside the plugin, itself inside the application bundle.
-You can also use your own ffmpeg libraries, however in that case you might have to rebuild the app. 
-The source code is in the ffmpeg folder of this repository. 
-
+The extension leverages the LGPL2.1-licensed ffmpeg libraries avcodec, avfilter, avutil, swscale, avdevice, avformat, and swresample.  
+You can find them inside Frameworks folder inside the plugin, itself inside the application bundle.  
+You can also use your own ffmpeg libraries, however in that case you might have to rebuild the app.   
+The source code is in the ffmpeg folder of this repository.    
+  
 
 Besides the former, 100% Swift -no html, no js, and 100% native with no Webkit. 
 
