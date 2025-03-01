@@ -24,8 +24,8 @@ The specific version used in this software is:  7.1
 No modifications have been made to the FFmpeg libraries.   
 
 ## Compilation
-Silicon: `./configure --prefix=/tmp/ffql2  --disable-doc --disable-network --disable-autodetect --disable-ffplay --enable-shared --disable-static   --disable-ffplay   --disable-debug   --install-name-dir='@executable_path/../Frameworks'  --enable-pic`
-Intel: `./configure --prefix=/tmp/ffql2  --disable-asm --disable-doc --disable-network --disable-autodetect --disable-ffplay --enable-shared --disable-static   --disable-ffplay   --disable-debug   --install-name-dir='@executable_path/../Frameworks'  --enable-pic   
+Silicon: `./configure --prefix=/tmp/ffql2  --disable-doc --disable-network --disable-autodetect --disable-ffplay --enable-shared --disable-static   --disable-ffplay   --disable-debug   --install-name-dir='@executable_path/../Frameworks'  --enable-pic`  
+Intel: `./configure --prefix=/tmp/ffql2  --disable-asm --disable-doc --disable-network --disable-autodetect --disable-ffplay --enable-shared --disable-static   --disable-ffplay   --disable-debug   --install-name-dir='@executable_path/../Frameworks'  --enable-pic  `
 
 ## Replacement Instructions  
 
