@@ -40,12 +40,13 @@ Testing with high bitrates (20, 110mbps) HD videos, and ultra high bitrate (250m
 
 ## To do   
 ̶I̶n̶t̶e̶l̶:̶ ̶I̶ ̶n̶e̶e̶d̶ ̶t̶o̶ ̶f̶i̶n̶i̶s̶h̶ ̶c̶o̶m̶p̶i̶l̶i̶n̶g̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶
- 
+
+  ##  
 ## Acknowledgment
-The extension leverages the LGPL2.1-licensed ffmpeg libraries avcodec, avfilter, avutil, swscale, avdevice, avformat, and swresample.  
+The extension uses code from FFmpeg: the LGP L2.1-licensed libraries avcodec, avfilter, avutil, swscale, avdevice, avformat, and swresample.  
 You can find them inside Frameworks folder inside the plugin, itself inside the application bundle.  
-You can also use your own ffmpeg libraries, however in that case you might have to rebuild the app.   
-The source code is in the ffmpeg folder of this repository.    
+You can also use your own FFmpeg libraries, however in that case you might have to rebuild the app.   
+The source code is in the FFmpeg folder of this repository.    
   
 
 Besides the former, 100% Swift -no html, no js, and 100% native with no Webkit. 
