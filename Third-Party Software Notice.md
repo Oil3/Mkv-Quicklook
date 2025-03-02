@@ -12,18 +12,19 @@ This software uses the following FFmpeg libraries:
 * `libavfilter` provides means to alter decoded audio and video through a directed graph of connected filters.
 * `libavdevice` provides an abstraction to access capture and playback devices.
 * `libswresample` implements audio mixing and resampling routines.
-* `libswscale` implements color conversion and scaling routines.
+* `libswscale` implements color conversion and scaling routines.  
 These libraries are licensed under the LGPL version 2.1 of which a copy can be found below.  
  
 ## Source Code Availability  
-In compliance with the LGPL 2.1, the complete source code for the FFmpeg libraries used in this software is available for download from the ffmpeg folder of the https://github.com/Oil3/Mkv-Quicklook/ repository or from  rhttps://ffmpeg.org/download.html
+In compliance with the LGPL 2.1, the complete source code for the FFmpeg libraries used in this software is available for download from the FFmpeg folder of the https://github.com/Oil3/Mkv-Quicklook/ repository or from  https://ffmpeg.org/download.html
   
 The specific version used in this software is:  7.1
 
 ## Modifications  
 No modifications have been made to the FFmpeg libraries.   
 
-## Compilation
+## Compilation  
+The FFmpeg libraries used in this software were compiled using the following commands for arm64 and x86_64 architectures, respectively:  
 Silicon: `./configure --prefix=/tmp/ffql2  --disable-doc --disable-network --disable-autodetect --disable-ffplay --enable-shared --disable-static   --disable-ffplay   --disable-debug   --install-name-dir='@executable_path/../Frameworks'  --enable-pic`  
 Intel: `./configure --prefix=/tmp/ffql2  --disable-asm --disable-doc --disable-network --disable-autodetect --disable-ffplay --enable-shared --disable-static   --disable-ffplay   --disable-debug   --install-name-dir='@executable_path/../Frameworks'  --enable-pic  `
 
