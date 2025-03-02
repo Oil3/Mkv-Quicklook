@@ -38,8 +38,12 @@ Testing with high bitrates (20, 110mbps) HD videos, and ultra high bitrate (250m
 
 ### Please let me know what video or audio codecs if a video doesn't work properly, playback should be immediate and instant, no matter the video file size. 
 
-## To do   
-̶I̶n̶t̶e̶l̶:̶ ̶I̶ ̶n̶e̶e̶d̶ ̶t̶o̶ ̶f̶i̶n̶i̶s̶h̶ ̶c̶o̶m̶p̶i̶l̶i̶n̶g̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶
+## To do / Changelog  
+̶I̶n̶t̶e̶l̶:̶ ̶I̶ ̶n̶e̶e̶d̶ ̶t̶o̶ ̶f̶i̶n̶i̶s̶h̶ ̶c̶o̶m̶p̶i̶l̶i̶n̶g̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶ - v1.1   
+F̶i̶x̶ ̶H̶.̶2̶6̶5̶ - v1.2  
+̶Fix VP8/VP9  
+Fix the sample video  
+
 
   ##  
 ## Acknowledgment
