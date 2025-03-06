@@ -42,18 +42,16 @@ Testing with high bitrates (20, 110mbps) HD videos, and ultra high bitrate (250m
 ̶I̶n̶t̶e̶l̶:̶ ̶I̶ ̶n̶e̶e̶d̶ ̶t̶o̶ ̶f̶i̶n̶i̶s̶h̶ ̶c̶o̶m̶p̶i̶l̶i̶n̶g̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶ - v1.1   
 F̶i̶x̶ ̶H̶.̶2̶6̶5̶ - v1.2  
 ̶Fix VP8/VP9  
-Fix the sample video  
+Fix the sample video 
+Fix audio
 
 
   ##  
 ## Acknowledgment
-The extension uses code from [FFmpeg](http://ffmpeg.or): the [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)-licensed libraries avcodec, avfilter, avutil, swscale, avdevice, avformat, and swresample.  
-You can find them inside Frameworks folder inside the plugin, itself inside the application bundle.  
-You can also use your own FFmpeg libraries, however in that case you might have to rebuild the app.   
-The source code is in the [FFmpeg folder](https://github.com/Oil3/Mkv-Quicklook/tree/oil3/mkv%20Quicklook/ffmpeg) inside the `mkv Quicklook` folder of this repository.    
-  
+The extension uses code from [FFmpeg](http://ffmpeg.or) licenced under [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).   
 
-Besides the former, 100% Swift -no html, no js, and 100% native with no Webkit. 
+
+Nothing external besides the former, and made in Swift.  
 
 
   ##  
