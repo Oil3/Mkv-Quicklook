@@ -36,7 +36,7 @@ Download from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.2-
 
 Testing with high bitrates (20, 110mbps) HD videos, and ultra high bitrate (250mbps) 4K UHD sample.  
 
-### Please let me know what video or audio codecs if a video doesn't work properly, playback should be immediate and instant, no matter the video file size. 
+### Please post an issue if playback isn't immediate and instant, no matter the video file size. 
 
 ## To do / Changelog  
 ̶I̶n̶t̶e̶l̶:̶ ̶I̶ ̶n̶e̶e̶d̶ ̶t̶o̶ ̶f̶i̶n̶i̶s̶h̶ ̶c̶o̶m̶p̶i̶l̶i̶n̶g̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶ - v1.1   
