@@ -55,7 +55,7 @@ F̶i̶x̶ ̶H̶.̶2̶6̶5̶ - v1.2
 The extension uses code from [FFmpeg](http://ffmpeg.or) licenced under [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).   
 
 
-Nothing external besides the former, and made in Swift.  
+Its libraries are embedded, nothing to download or install, i.e. the Mkv Quicklook extension works immediately.
 
 
   ##  
