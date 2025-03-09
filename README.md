@@ -30,7 +30,7 @@ Instant playback and smooth scrolling:
 
 
 ##
-Download the v1.3 from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.3-H.264-H.265%2FHEVC-AAC-MP3-AC3-almost-all-MKV) or direct-download [Silicon-arm64 ](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.3-H.264-H.265%2FHEVC-AAC-MP3-AC3-almost-all-MKV/mkv.Quicklook.-.1.3.Silicon.zip) or  [Intel-x86_64](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.3-H.264-H.265%2FHEVC-AAC-MP3-AC3-almost-all-MKV/mkv.Quicklook.-.1.3.intel.zip) .  
+Download the v1.3 from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.3-H.264-H.265%2FHEVC-AAC-MP3-AC3-almost-all-MKV) or direct-download [Silicon-arm64 ](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.3-H.264-H.265%2FHEVC-AAC-MP3-AC3-almost-all-MKV/mkv.Quicklook.-.1.3.Silicon.zip) or  [Intel-x86/64](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.3-H.264-H.265%2FHEVC-AAC-MP3-AC3-almost-all-MKV/mkv.Quicklook.-.1.3.intel.zip) .  
 
 
 ##
