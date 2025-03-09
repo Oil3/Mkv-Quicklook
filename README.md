@@ -39,10 +39,9 @@ Download from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.3-
 [S720creen Recording 2025-02-28 at 1.04.15 PM copy 2.webm](https://github.com/user-attachments/assets/c27b8024-369a-4ec0-beff-14e2c4923ae7)
 
 
-Testing with high bitrates (20, 110mbps) HD videos, and ultra high bitrate (250mbps) 4K UHD sample.  
+First test on first version, testing responsiveness when browsing/scrolling in mkv sample videos of high bitrates (20, 110mbps) in HD, and ultra high bitrate (250mbps) in 4K UHD.   
 
-### Please post an issue if playback isn't immediate and instant, no matter the video file size. 
-
+##  
 ## To do / Changelog  
 ̶I̶n̶t̶e̶l̶:̶ ̶I̶ ̶n̶e̶e̶d̶ ̶t̶o̶ ̶f̶i̶n̶i̶s̶h̶ ̶c̶o̶m̶p̶i̶l̶i̶n̶g̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶ - v1.1   
 F̶i̶x̶ed ̶H̶.̶2̶6̶5̶ - v1.2  
