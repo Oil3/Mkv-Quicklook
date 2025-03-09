@@ -31,7 +31,7 @@ Instant playback and smooth scrolling:
 
 
 ##
-Download from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.2-hevc-fixed) or direct-download [Silicon-arm64 ](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.2-hevc-fixed/mkv.Quicklook.-.1.2.Silicon.zip) or  [Intel-x86_64](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.2-hevc-fixed/mkv.Quicklook.-.1.2.Intel.zip) .  
+Download from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.3-H.264-H.265%2FHEVC-AAC-MP3-AC3-almost-all-MKV) or direct-download [Silicon-arm64 ](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.3-H.264-H.265%2FHEVC-AAC-MP3-AC3-almost-all-MKV/mkv.Quicklook.-.1.3.Silicon.zip) or  [Intel-x86_64](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.3-H.264-H.265%2FHEVC-AAC-MP3-AC3-almost-all-MKV/mkv.Quicklook.-.1.3.intel.zip) .  
 
 
 ##
@@ -47,12 +47,12 @@ Testing with high bitrates (20, 110mbps) HD videos, and ultra high bitrate (250m
 ̶I̶n̶t̶e̶l̶:̶ ̶I̶ ̶n̶e̶e̶d̶ ̶t̶o̶ ̶f̶i̶n̶i̶s̶h̶ ̶c̶o̶m̶p̶i̶l̶i̶n̶g̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶ - v1.1   
 F̶i̶x̶ ̶H̶.̶2̶6̶5̶ - v1.2  
 ̶Fix VP8/VP9  
-̶Fix audio  
-
+̶F̶i̶x̶ ̶a̶u̶d̶i̶o̶  v1.3  
+ 
 
   ##  
 ## Acknowledgment
-The extension uses code from [FFmpeg](http://ffmpeg.or) licenced under [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).   
+The extension uses code from [FFmpeg](http://ffmpeg.or) licensed under [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).   
 
 
 Its libraries are embedded, nothing to download or install, i.e. the Mkv Quicklook extension works immediately.
