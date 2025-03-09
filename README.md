@@ -15,9 +15,8 @@ Works on all macOSX versions on both Intel and Silicon architectures.
 
 
 Instant playback and smooth scrolling:
-* H.264, AAC:  `tested up to 3840 × 2160 and a bitrate of 227.74 Mbit/s`.    
-* H.265/HEVC: `tested up to 3840 × 2160 with a 10-bit bit depth and a bitrate of 365.20 Mbit/s`.   
-
+*  H.264, H.265/HEVC, AAC, MP3, AC-3  `tested up to 3840 × 2160 with a 10-bit bit depth and a bitrate of 365.20 Mbit/s`.
+*  Optional, native, picture-in-picture mode supported.  
    
 ## Install  
 >Launch the app once. This registers the extension as the extension itself stays within the app bundle.  
