@@ -42,12 +42,14 @@ First test on first version, testing responsiveness when browsing/scrolling in m
 
 ##  
 ## To do / Changelog  
-̶I̶n̶t̶e̶l̶:̶ ̶I̶ ̶n̶e̶e̶d̶ ̶t̶o̶ ̶f̶i̶n̶i̶s̶h̶ ̶c̶o̶m̶p̶i̶l̶i̶n̶g̶ ̶p̶r̶o̶p̶e̶r̶l̶y̶ - v1.1   
 F̶i̶x̶ed ̶H̶.̶2̶6̶5̶ - v1.2  
 ̶Fix VP8/VP9  
 ̶F̶i̶x̶ed ̶a̶u̶d̶i̶o̶ - v1.3   
 ̶̶̶F̶i̶x̶e̶d̶ ̶b̶a̶c̶k̶g̶r̶o̶u̶n̶d̶ ̶p̶l̶a̶y̶ - v1.3  
- 
+̶̶̶F̶i̶x̶e̶d̶ ̶c̶a̶c̶h̶e̶ ̶f̶l̶u̶s̶h̶i̶n̶g̶ - 1.32  
+Fix slow network disk playback  
+Add (optional) thumbnailing   
+Reduce filesizes  
 
   ##  
 ## Acknowledgment
