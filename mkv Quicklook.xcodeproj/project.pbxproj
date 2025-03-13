@@ -55,6 +55,8 @@
 
 /* Begin PBXFileReference section */
 		7D9B07222D70124D00327D49 /* mkv Quicklook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mkv Quicklook.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7DCD32172D83865C00A9C164 /* mkv Quicklook - 1.32 intel.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "mkv Quicklook - 1.32 intel.zip"; sourceTree = "<group>"; };
+		7DCD32182D83865C00A9C164 /* mkv Quicklook - 1.32 Silicon.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "mkv Quicklook - 1.32 Silicon.zip"; sourceTree = "<group>"; };
 		7DD1F1842D7DF2A000B75F40 /* mkv Quicklook - 1.3 intel.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "mkv Quicklook - 1.3 intel.zip"; sourceTree = "<group>"; };
 		7DD1F1852D7DF2A000B75F40 /* mkv Quicklook - 1.3 Silicon.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = "mkv Quicklook - 1.3 Silicon.zip"; sourceTree = "<group>"; };
 		7DE8D47E2D714B6600C06A9F /* QL mkv.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "QL mkv.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -89,6 +91,8 @@
 		7D9B07192D70124D00327D49 = {
 			isa = PBXGroup;
 			children = (
+				7DCD32172D83865C00A9C164 /* mkv Quicklook - 1.32 intel.zip */,
+				7DCD32182D83865C00A9C164 /* mkv Quicklook - 1.32 Silicon.zip */,
 				7DD1F1842D7DF2A000B75F40 /* mkv Quicklook - 1.3 intel.zip */,
 				7DD1F1852D7DF2A000B75F40 /* mkv Quicklook - 1.3 Silicon.zip */,
 				7D9B07242D70124D00327D49 /* mkv Quicklook */,
