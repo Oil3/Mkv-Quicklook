@@ -47,7 +47,7 @@ F̶i̶x̶ed ̶H̶.̶2̶6̶5̶ - v1.2
 ̶F̶i̶x̶ed ̶a̶u̶d̶i̶o̶ - v1.3   
 ̶̶̶F̶i̶x̶e̶d̶ ̶b̶a̶c̶k̶g̶r̶o̶u̶n̶d̶ ̶p̶l̶a̶y̶ - v1.3  
 ̶̶̶F̶i̶x̶e̶d̶ ̶c̶a̶c̶h̶e̶ ̶f̶l̶u̶s̶h̶i̶n̶g̶ - 1.32  
-Fix slow network disk playback  
+Fix slow network disk playback  - unbeknownst exactly why, network-volumes files currently have to be cached 100% before playback  
 Add (optional) thumbnailing   
 Reduce filesizes  
 
