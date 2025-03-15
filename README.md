@@ -30,8 +30,10 @@ Instant playback and smooth scrolling:
 
 
 ##
-Download the v1.32 from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.32-MKV-cache-flush) or direct-download [Silicon-arm64 ](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.32-MKV-cache-flush/mkv.Quicklook.-.1.32.Silicon.zip) or  [Intel-x86/64](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.32-MKV-cache-flush/mkv.Quicklook.-.1.32.intel.zip) .  
+Download the stable v1.32 from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.32-MKV-cache-flush) or direct-download [Silicon-arm64 ](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.32-MKV-cache-flush/mkv.Quicklook.-.1.32.Silicon.zip) or  [Intel-x86/64](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.32-MKV-cache-flush/mkv.Quicklook.-.1.32.intel.zip) .  
 
+Or **try the beta 2.0** that quicklook-plays virtually _all non-natively-supported formats_ such as .mkv .wmv .flv .webm .rm, ... even .nuv.   
+Instant playback even from network volumes, [Direct download Silicon beta](https://github.com/Oil3/Mkv-Quicklook/blob/oil3/QL-every-other-formats-BETA.zip)  
 
 ##
 
@@ -50,7 +52,7 @@ F̶i̶x̶ed ̶H̶.̶2̶6̶5̶ - v1.2
 Fix slow network disk playback  - unbeknownst exactly why, network-volumes files currently have to be cached 100% before playback  
 Add (optional) thumbnailing   
 Reduce filesizes    
-Prepare version 2.0: currently in beta version, an extension that quicklook-plays virtually all non-natively-supported formats such as wma flv webm rm, ... even .nuv. No network-volumes issues, instant playback from NAS as well, buggy seek [Direct download Silicon beta](https://github.com/Oil3/Mkv-Quicklook/blob/oil3/QL-every-other-formats-BETA.zip)  
+Prepare version 2.0: currently in beta version, an extension that quicklook-plays virtually all non-natively-supported formats such as wmv flv webm rm, ... even .nuv. No network-volumes issues, instant playback from NAS as well [Direct download Silicon beta](https://github.com/Oil3/Mkv-Quicklook/blob/oil3/QL-every-other-formats-BETA.zip)  
 
   
   ##  
