@@ -49,8 +49,10 @@ F̶i̶x̶ed ̶H̶.̶2̶6̶5̶ - v1.2
 ̶̶̶F̶i̶x̶e̶d̶ ̶c̶a̶c̶h̶e̶ ̶f̶l̶u̶s̶h̶i̶n̶g̶ - 1.32  
 Fix slow network disk playback  - unbeknownst exactly why, network-volumes files currently have to be cached 100% before playback  
 Add (optional) thumbnailing   
-Reduce filesizes  
+Reduce filesizes    
+Prepare version 2.0: currently in beta version, an extension that quicklook-plays virtually all non-natively-supported formats such as wma flv webm rm, ... even .nuv. No network-volumes issues, instant playback from NAS as well, buggy seek [Direct download Silicon beta](https://github.com/Oil3/Mkv-Quicklook/blob/oil3/QL-every-other-formats-BETA.zip)  
 
+  
   ##  
 ## Acknowledgment
 The extension uses code from [FFmpeg](http://ffmpeg.or) licensed under [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).   
