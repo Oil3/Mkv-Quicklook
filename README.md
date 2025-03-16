@@ -57,7 +57,7 @@ Prepare version 2.0: currently in beta version, an extension that quicklook-play
   
   ##  
 ## Acknowledgment
-The extension uses code from [FFmpeg](http://ffmpeg.or) licensed under [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).   
+The extension uses code from [FFmpeg](http://ffmpeg.org) licensed under [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).   
 
 
 Its libraries are embedded, nothing to download or install, i.e. the Mkv Quicklook extension works immediately.
