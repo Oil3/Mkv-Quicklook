@@ -26,7 +26,7 @@ Instant playback and smooth scrolling:
 >Delete the app.  
 
 ## Update  
->Replace the older app with the newer app.  MacOS looks for the extension in the app: if app is moved, a relaunch might be needed.
+>Replace the older app with the newer app.  MacOS looks for the extension in the app, if app is moved, macOS can get confused and still look for it in the previou location.  
 
 
 ##
