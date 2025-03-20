@@ -4,7 +4,7 @@
   
   
   
-  Free macOS plugin to play .mkv movies in Quicklook Preview, very fast.
+  Free macOS plugin to play .mkv movies in Quick Look Preview, very fast.
 
 </p>
 
