@@ -31,9 +31,8 @@ Instant playback and smooth scrolling `tested up to 3840 × 2160 with a 10-bit b
 ##
 Download the new QLCodec-MKV from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/QLCodec1.0-mkv) or direct-download [Universal binary](https://github.com/Oil3/Mkv-Quicklook/releases/download/QLCodec1.0-mkv/Quicklook.Codec.MKV.1.0.-.UniversalBinary.zip).  
 
-Or **try the beta 2.0** that quicklook-plays virtually _all non-natively-supported formats_ such as .mkv .wmv .flv .webm .rm, ... even .nuv.   
-Instant playback even from network volumes, [Direct download Silicon beta](https://github.com/Oil3/Mkv-Quicklook/releases/download/1.32-MKV-cache-flush/QL-every-other-formats-BETA.zip)  
-
+Or **try QLCodec** that quicklook-plays  _all non-natively-supported formats_ such as .mkv .wmv .flv .webm .rm, ... even .nuv.   
+Instant playback even from network volumes, [Repository](https://github.com/Oil3/QLCodec)      
 ##
 
 [S720creen Recording 2025-02-28 at 1.04.15 PM copy 2.webm](https://github.com/user-attachments/assets/c27b8024-369a-4ec0-beff-14e2c4923ae7)
