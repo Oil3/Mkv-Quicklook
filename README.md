@@ -20,6 +20,9 @@ Instant playback and smooth scrolling `tested up to 3840 × 2160 with a 10-bit b
 ## Install  
 >Launch the app once. This registers the extension as the extension itself stays within the app bundle.  
 >Requires nothing that is not included already, is sandboxed and hardened, and has no extra entitlements.
+>iina users might need to disable Iina thumbnails preview generation in the settings of 'iina'.
+
+
 
 ## Uninstall  
 >Delete the app.  
