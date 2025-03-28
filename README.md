@@ -28,6 +28,7 @@ Instant playback and smooth scrolling `tested up to 3840 × 2160 with a 10-bit b
 >Delete the app.  
 
 ## Update  
+>This version has a new bundle identifier, might need to remove or desactivate from  macOS' `Settings` the previous QL MKV  
 >Replace the older app with the newer app.  MacOS looks for the extension in the app, if app is moved, macOS can get confused and still look for it in the previous location.  
 
 
