@@ -9,6 +9,7 @@
 </p>
 
 
+## Update: If you have _iina_ and Mkv quicklook didn't work, it was a conflict of filetypes, it is fixed now.   
 
    ## 
 Works on all macOSX versions on both Intel and Silicon architectures. 
