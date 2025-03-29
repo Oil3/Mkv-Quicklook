@@ -34,7 +34,7 @@ Instant playback and smooth scrolling `tested up to 3840 × 2160 with a 10-bit b
 
 
 ##
-Download the new QLCodec-MKV from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/QLCodec1.0-mkv) or direct-download [Universal binary](https://github.com/Oil3/Mkv-Quicklook/releases/download/QLCodec1.0-mkv/Quicklook.Codec.MKV.1.0.-.UniversalBinary.zip).  
+Download the new QLCodec-MKV from [Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/QLCodec1.0-mkv) or direct-download [Universal binary](https://github.com/Oil3/Mkv-Quicklook/releases/download/QLCodec1.0-mkv/Quicklook.Codec.MKV.-iina.fixed.universal.binary.1.0.zip).  
 
 Or **try QLCodec** that quicklook-plays  _all non-natively-supported formats_ such as .mkv .wmv .flv .webm .rm, ... even .nuv.   
 Instant playback even from network volumes, [Repository](https://github.com/Oil3/QLCodec)      
