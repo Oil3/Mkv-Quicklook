@@ -51,10 +51,8 @@ an extension that quicklook-plays virtually all non-natively-supported formats s
   
   ##  
 ## Acknowledgment
-The extension uses code from [FFmpeg](http://ffmpeg.org) licensed under [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).   
-
-
-Its libraries are embedded, nothing to download or install, i.e. the Mkv Quicklook extension works immediately.
+[FFmpeg](http://ffmpeg.org) for their libraries licenced in [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).     
+[VideoLan](https://www.videolan.org/) for their libraries licenced in  [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).  
 
 
   ##  
