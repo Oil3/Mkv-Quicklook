@@ -1,5 +1,6 @@
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/1e83fd99-3571-47b0-9248-ef0e57c433c7">
+<img width="128" height="128"  alt="image" src="https://github.com/user-attachments/assets/cf42dcc0-529a-4c27-b09e-f476eda1f765" />
+
   <h1 align="center">Mkv Quicklook</h1>
   
   
@@ -9,8 +10,9 @@
 </p>
 
 
-## Update: If you have _iina_ and Mkv quicklook didn't work, it was a conflict of filetypes, it is fixed now.   
-
+## Update in progress, version 1.9 "Legacy", in an Universal Binary for current macOS 26 down to macOS 11 Big Sur.
+Complete overhaul, significantly improved in most aspects. [Direct download .Zip ](https://github.com/Oil3/Mkv-Quicklook/releases/download/QLCodec1.0-mkv/QLcMKV1.9.Legacy.October2025-macOS11-bigsurCompatible.zip)
+  
    ## 
 Works on all macOSX versions on both Intel and Silicon architectures. 
 
