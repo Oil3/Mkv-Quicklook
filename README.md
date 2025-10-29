@@ -10,8 +10,8 @@
 </p>
 
 
-## Update in progress, version 1.9 "Legacy", in an Universal Binary for current macOS 26 down to macOS 11 Big Sur.
-Complete overhaul, significantly improved in most aspects. [Direct download .Zip ](https://github.com/Oil3/Mkv-Quicklook/releases/download/QLCodec1.0-mkv/QLcMKV1.9.Legacy.October2025-macOS11-bigsurCompatible.zip)
+## Update , version 1.95 "Legacy", in an Universal Binary for current macOS 26 down to macOS 11 Big Sur.
+Complete overhaul, significantly improved in most aspects. [Download from Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.95-MKV-Quick-Look)
   
    ## 
 Works on all macOSX versions on both Intel and Silicon architectures. 
