@@ -15,7 +15,7 @@ More features for further less overhead.
 [Download from Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.95-MKV-Quick-Look)  
   
 ### Features  
-New! Picture-in-Picture - Floats above Spotlight, Dock and the Menu-bar.    
+New! Picture-in-Picture - additional panel that floats above Spotlight, Dock and the Menu-bar.    
 New! Bookmarks - custom markers on the slider, draggable.   
 New! A-B looping - custom repeat with the markers.   
 Improved - Controls bar, slider, settings.    
