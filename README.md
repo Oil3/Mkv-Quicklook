@@ -21,7 +21,7 @@ New! A-B looping - custom repeat with the markers.
 Improved - Controls bar, slider, settings.    
 Improved - Engine - demux with FFmpeg, toggle hardware acceleration on/off.   
 Improved - seeking/scrubbing - **fine-tunable into possibly the most comfortable.**  
-Lightweight as in _up to 8 times less_ RAM overhead / average memory usage than Iina.      
+Lightweight as in _up to 8 times less_ RAM overhead / average memory usage than Iina.[^1]      
 
 
 Works on all macOSX versions on both Intel and Silicon architectures. 
@@ -66,6 +66,8 @@ an extension that quicklook-plays virtually all non-natively-supported formats s
 ## Acknowledgment
 [FFmpeg](http://ffmpeg.org) for their libraries licenced in [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).     
 [VideoLan](https://www.videolan.org/) for their libraries licenced in  [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html).  
+
+[^1]: <img width="800" height="460" alt="image" src="https://github.com/user-attachments/assets/aaca0ffd-c82a-4832-a065-086d83181241" />
 
 
   ##  
