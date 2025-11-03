@@ -10,10 +10,13 @@
 </p>
 
 
-## Update , version 1.95 "Legacy", in an Universal Binary for current macOS 26 down to macOS 11 Big Sur.  
+## Update , version 1.99 "Legacy"  .  
 More features for further less overhead.  
-[Download from Releases](https://github.com/Oil3/Mkv-Quicklook/releases/tag/1.95-MKV-Quick-Look)  
-  
+[Download from Releases](https://github.com/Oil3/Mkv-Quicklook/releases/latest)  
+-Fixed slider knob   
+-Fixed subseconds time display  
+-Fixed UTI conflicts,  now supersedes MKV previewing no matter which other media player is already present  
+
 ### Features  
 New! Picture-in-Picture - additional panel that floats above Spotlight, Dock and the Menu-bar.    
 New! Bookmarks - custom markers on the slider, draggable.   
@@ -23,8 +26,9 @@ Improved - Engine - demux with FFmpeg, toggle hardware acceleration on/off.
 Improved - seeking/scrubbing - **fine-tunable into possibly the most comfortable.**  
 Lightweight as in _up to 8 times less_ RAM overhead / average memory usage than Iina.[^1]      
 
+##  
 
-Works on all macOSX versions on both Intel and Silicon architectures. 
+Notarized and sandboxed, works on all macOSX versions on both Intel and M-series architectures. 
 
 
 Instant playback and smooth scrolling `tested up to 3840 × 2160 with a 10-bit bit depth and a bitrate of 365.20 Mbit/s`.
