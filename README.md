@@ -28,7 +28,7 @@ Lightweight as in _up to 8 times less_ RAM overhead / average memory usage than 
 
 ##  
 
-Notarized and sandboxed, works on all macOSX versions on both Intel and M-series architectures. 
+Notarized and sandboxed, works on all macOSX versions on both Intel and M-series architectures, from Big Sur 11 to Tahoe 26.
 
 
 Instant playback and smooth scrolling `tested up to 3840 × 2160 with a 10-bit bit depth and a bitrate of 365.20 Mbit/s`.
